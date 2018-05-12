@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16197#One-Third-Off
 gutenberg_issued: '2005-07-04'
 gutenberg_type: Text
 identifiers:
