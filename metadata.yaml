@@ -1,0 +1,40 @@
+_repo: One-Third-Off_16197
+_version: 0.1.0
+alternative_title: 1/3 off
+contributor:
+  illustrator:
+    agent_name: Sarg, Tony
+    alias: Sarg, Antonio Frederick
+    birthdate: 1880
+    deathdate: 1942
+    gutenberg_agent_id: '6532'
+    url: http://www.gutenberg.org/2009/agents/6532
+    wikipedia: http://en.wikipedia.org/wiki/Tony_Sarg
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2005-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16197'
+  lccn: '21014550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weight control'
+- !lcsh 'Wit and humor'
+- !lcc 'PS'
+title: One Third Off
+url: http://www.gutenberg.org/ebooks/16197
